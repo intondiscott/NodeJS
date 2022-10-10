@@ -1,0 +1,2 @@
+This is the two files(text) combined: 
+This is the first text and This is some text in the other folder

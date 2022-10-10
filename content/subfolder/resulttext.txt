@@ -1,0 +1,2 @@
+Here is the result:
+ This is the first text This is some text in the other folder
